@@ -1,4 +1,5 @@
 function calculator(){
+    
     console.log("Calculator function");
     let value1 = Number(prompt("Enter first value"));
     let value2 = Number(prompt("Enter second value"));
